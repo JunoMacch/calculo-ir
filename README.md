@@ -11,6 +11,7 @@ Este é um projeto simples desenvolvido em Java que realiza o cálculo do Impost
 - 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+- 2. Compile e execute o projeto no seu ambiente de desenvolvimento Java.
 
 ## Tecnologias Utilizadas
 - Linguagem: Java
