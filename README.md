@@ -15,8 +15,7 @@ Este é um projeto acadêmico desenvolvido em Java que realiza o cálculo do Imp
 
 ## Tecnologias Utilizadas
 - Linguagem: Java
-- Paradigma: Orientação a Objetos
-- IDE recomendada: IntelliJ IDEA / Eclipse / VSCode
+- IDE recomendada: IntelliJ IDEA / Eclipse
 
 ## Próximos Passos
 - Adicionar tratamento de erros para entradas inválidas.
